@@ -1,1 +1,1 @@
-# landofcoder-magento2-smtp
+# landofcoder/magento2-smtp
